@@ -1,0 +1,13 @@
+adb devices
+#захват с двух камер сразу
+adb setprop debug.oculus.screenCaptureEye 2
+#разрешение камеры
+adb setprop debug.oculus.capture.width 3840  
+adb setprop debug.oculus.capture.height 1920
+#захват полного кадра
+adb setprop debug.oculus.fullRateCapture 1
+#Битрейт (можно уменьшать)
+adb setprop debug.oculus.capture.bitrate 40000000
+#Эти настройки не обязательны, позволяют ограничивать FPS для захвата в играх
+adb setprop debug.oculus.refreshRate 72
+adb setprop debug.oculus.capture.fps 60
