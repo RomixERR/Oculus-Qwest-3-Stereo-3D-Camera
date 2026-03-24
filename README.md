@@ -8,6 +8,8 @@
 Скрипт для **Oculus Quest 3** (на других моделях не проверялся), позволяющий включить запись и вывод камеры VR-шлема в **стерео-режиме**.
 
 > ⚠️ Использование на других устройствах не гарантируется.
+> 
+> ⚙️ Для отключения стерео режима можно просто перезагрузить устройство. Для этого зажмите кнопку включения на 2 секунды. Появится меню. Параметры питания - Перезагрузка.
 
 ---
 
@@ -100,6 +102,8 @@ https://www.youtube.com/watch?v=Odx5bNwdvOA&t=2s
 A script for **Oculus Quest 3** (not tested on other devices) that enables **stereo camera recording and output** from the VR headset.
 
 > ⚠️ Compatibility with other models is not guaranteed.
+> 
+> ⚙️ To disable stereo mode, simply reboot the device. To do this, press and hold the power button for 2 seconds. A menu will appear. Power Options - Restart.
 
 ---
 
