@@ -45,10 +45,11 @@ https://www.youtube.com/watch?v=Odx5bNwdvOA&t=2s
 
 ---
 
-### 🔌 Подключение
+### 🔌 Подключение и запуск скрипта
 
 * Включите **режим разработчика** на шлеме
 * Подключите шлем к ПК через USB
+* Запустите скрипт
 * При запуске подтвердите:
 
   > **USB Debugging (отладка по USB)** внутри шлема
@@ -139,10 +140,11 @@ https://www.youtube.com/watch?v=Odx5bNwdvOA&t=2s
 
 ---
 
-### 🔌 Connection
+### 🔌 Connection and run
 
 * Enable **Developer Mode** on your headset
 * Connect the headset via USB
+* Run script
 * Confirm:
 
   > **USB Debugging** inside the headset
